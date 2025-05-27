@@ -1,1 +1,0 @@
-# Permission shell commands
